@@ -21,7 +21,6 @@
 |---------|-------------|------------|
 | [Talk With Docs – RAG + Memory](https://github.com/akhil-droid/Talk_With_Docs_RAG_Memory) | Chat with documents using Retrieval-Augmented Generation & memory retention | LangChain, Pinecone, OpenAI API, Streamlit |
 | **AI Search Enginer with Tools and Agents** | Autonomous LLM agent capable of executing multi-step reasoning with tools | LangChain, Python, OpenAI Functions |
-| **LLM Fine-Tuning Pipeline** | End-to-end process for training & deploying domain-specific LLMs | PyTorch, Hugging Face Transformers |
 
 ---
 
